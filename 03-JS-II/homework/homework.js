@@ -222,7 +222,7 @@ function doWhile(numero) {
     resultado += 5;
     contador -=1;
   }while ( contador!== 0)
-  return numero + resultado
+  return numero + resultado;
 }
 
 
